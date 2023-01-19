@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Muhammed Raihan</h1>
 <h3 align="center">A passionate python programmer from India</h3>
-<!-- <img align="center" width="400" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oraihano&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" /> </p>
 
@@ -9,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/lraihanl" target="blank"><img src="https://img.shields.io/twitter/follow/lraihanl?logo=twitter&style=for-the-badge" alt="lraihanl" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Artificial intelligence, Machine learning, Data science**
+- 🌱 I’m currently learning **Python, Artificial intelligence, Machine learning and Data science**
 
 - 👨‍💻 My portfolio website [oraihano.github.io/me/](oraihano.github.io/me/)
 
