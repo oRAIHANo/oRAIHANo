@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Artificial intelligence, Machine learning and Data science**
 
-- 👨‍💻 My portfolio website [[oraihano.github.io/me/](oraihano.github.io/me/](https://oraihano.github.io/-/))
+- 👨‍💻 My portfolio website (https://oraihano.github.io/-/)
 
 - 📫 How to reach me **psraihan310@gmail.com**
 
