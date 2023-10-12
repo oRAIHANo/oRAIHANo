@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="left">MUHAMMED RAIHAN P. S.</h1>
 <h3 align="left">I am a graduate with a passion for continuous learning in the fields of Space, Artificial Intelligence, Computer Vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science</h3>
 
