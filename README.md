@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="left">Hi👋</h1>
 <h1 align="left">I am Muhammed Raihan P. S.</h1>
-<h2 align="left">I am a graduate 🎓 with a passion for continuous learning in the fields of Space, Artificial intelligence, Machine learning, Deep learning, Computer vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science 💻.</h2>
+<h2 align="left">I am a graduate 🎓 with a passion for continuous learning in the fields of Space, Artificial intelligence, Machine learning, Deep learning, Computer vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science 🖥️ .</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oraihano&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" /> </p>
 
