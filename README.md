@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="left">MUHAMMED RAIHAN P. S.</h1>
-<p align="left">I am a graduate with a passion for continuous learning in the fields of Space, Artificial Intelligence, Computer Vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science</p>
+<h5 align="left">I am a graduate with a passion for continuous learning in the fields of Space, Artificial intelligence, Machine learning, Deep learning, Computer vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oraihano&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/lraihanl" target="blank"><img src="https://img.shields.io/twitter/follow/lraihanl?logo=twitter&style=for-the-badge" alt="lraihanl" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Artificial intelligence, Machine learning and Data science**
+- 🌱 I’m currently learning **Python, Artificial intelligence, Machine learning and Deep learning**
 
 - 👨‍💻 My portfolio website (https://oraihano.github.io/-/)
 
