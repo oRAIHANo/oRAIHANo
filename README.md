@@ -16,12 +16,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/lraihanl" target="blank">
-    <img src="https://img.shields.io/twitter/follow/lraihanl?logo=twitter&style=for-the-badge" alt="lraihanl" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **AI, ML, DL, Computer Vision, and Python**
 - 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 - 📫 How to reach me: **psraihan310@gmail.com**
