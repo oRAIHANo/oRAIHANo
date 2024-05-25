@@ -1,4 +1,4 @@
-![MasterHead]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif))
+![MasterHead]([https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif])
 <h1 align="left">Hi👋</h1>
 <h1 align="left">I am Muhammed Raihan P. S.</h1>
 <h2 align="left">I am a graduate 🎓 with a passion for continuous learning in the fields of Space, Artificial intelligence, Machine learning, Deep learning, Computer vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science 🖥️ .</h2>
