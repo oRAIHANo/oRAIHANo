@@ -85,3 +85,5 @@
 <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true&card_width=500" alt="oraihano" />
 </p>
+
+![MasterHead](https://camo.githubusercontent.com/23ae67ff914c9cb152c266e60ed6157fa969bda4ad5608f4edd2d739f7e683fa/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966)
