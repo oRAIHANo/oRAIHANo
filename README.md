@@ -41,7 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oraihano&" alt="oraihano" /></p>
 
-![Nomaan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
+![Raihan's Streak](https://streak-stats.demolab.com?user=oRAIHANo&theme=radical&card_width=1080)
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=radical&card_width=1080)
 
