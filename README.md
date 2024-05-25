@@ -7,7 +7,7 @@
 </h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=oraihano&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" />
+  <img src="https://komarev.com/ghpvc/?username=oRAIHANo&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" />
 </p>
 
 <p align="left">
