@@ -45,6 +45,6 @@
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=radical&card_width=1080)
 
-![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=045000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=000000&point=948484&area=true&hide_border=true)
 
 ![Raihan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oRAIHANo&layout=compact&theme=radical&card_width=1080)
