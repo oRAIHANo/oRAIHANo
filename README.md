@@ -28,14 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/lraihanl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lraihanl" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/muhammed-raihan-p-s-aa3288213" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_iam_raihan_/?igshid=zddkntzintm%3d" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iam_raihan_/?igshid=zddkntzintm%3d" height="30" width="40" />
   </a>
 </p>
 
