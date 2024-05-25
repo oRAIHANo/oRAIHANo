@@ -42,10 +42,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oraihano&" alt="oraihano" /></p>
 ![Nomaan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
 
-![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=radical&card_width=1080)
+![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=radical&card_width=1080)
 
-![Nomaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
-![Nomaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oRAIHANo&layout=compact&theme=radical&card_width=1080)
-
-[![Nomaan's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
+![Raihan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oRAIHANo&layout=compact&theme=radical&card_width=1080)
