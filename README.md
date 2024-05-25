@@ -41,9 +41,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oraihano&" alt="oraihano" /></p>
 
-![Raihan's Streak](https://streak-stats.demolab.com?user=oRAIHANo&theme=black&card_width=1080)
+![Raihan's Streak](https://streak-stats.demolab.com?user=oRAIHANo&theme=radical&card_width=1080)
 
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=black&card_width=1080)
+![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=radical&card_width=1080)
 
 ![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
