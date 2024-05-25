@@ -70,7 +70,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oRAIHANo&show_icons=true&locale=en&layout=compact&theme=radical&card_width=1000" alt="oraihano" />
 </p>
 
