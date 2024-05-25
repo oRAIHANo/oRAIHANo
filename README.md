@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi 👋, I'm Muhammed Raihan P. S.</h1>
 <h2 align="left">
-  A passionate learner in Space, AI, ML, DL, Computer Vision, and Programming. Currently pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU).
+  I am a graduate 🎓 with a passion for continuous learning in the fields of Artificial Intelligence, Data Science, Data Structures & Algorithm Programming, Astronomy. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science 🖥️ .
 </h2>
 
 <p align="left">
