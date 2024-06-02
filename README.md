@@ -17,7 +17,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   </a>
 </p>
 
-- 🌱 I’m currently learning **AI, ML, DL, Computer Vision, and Python**
+- 🌱 I’m currently learning **AI, ML, DL, Data Science, Computer Vision and Python**
 - 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 - 📫 How to reach me: **psraihan310@gmail.com**
 
