@@ -2,7 +2,7 @@
 ![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
 
 <h1 align="left">Hi 👋, I'm Muhammed Raihan P. S.</h1>
-<h2 align="justify" color="aqua">
+<h2 align="justify">
 I am a graduate 🎓 with a strong background in developing innovative solutions to enhance user experiences and solve real-world problems. Seeking to leverage my skills and knowledge to contribute to cutting-edge AI projects and drive technological advancements 🖥️. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). <br>
 <br>Areas of Interest: Artificial Intelligence, Data Science, Data Structures & Algorithm Programming.</br>
 </h2>
@@ -30,6 +30,9 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -45,9 +48,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
