@@ -3,7 +3,8 @@
 
 <h1 align="left">Hi 👋, I'm Muhammed Raihan P. S.</h1>
 <h2 align="left">
-  I am a graduate 🎓 with a passion for continuous learning in the fields of Artificial Intelligence, Data Science, Data Structures & Algorithm Programming, Astronomy. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science 🖥️ .
+  I am a graduate 🎓 with a strong background in developing innovative solutions to enhance user experiences and solve real-world problems. Seeking to leverage my skills and knowledge to contribute to cutting-edge AI projects and drive technological advancements. 
+  Areas of Interest: Artificial Intelligence, DataScience, Data Structures & Algorithm Programming 🖥️.
 </h2>
 
 <p align="left">
