@@ -42,9 +42,6 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   <a href="" alt="pandas" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="" alt="pandas" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
   <a href="" alt="opencv" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="numpy" width="40" height="40"/>
   </a>
