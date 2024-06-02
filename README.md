@@ -48,7 +48,6 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" target="_blank" rel="noreferrer">
     <img src="" alt="numpy" width="40" height="40"/>
   </a>
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
