@@ -2,7 +2,7 @@
 ![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
 
 <h1 align="left">Hi 👋, I'm Muhammed Raihan P. S.</h1>
-<h2 align="left">
+<h2 align="justify">
 I am a graduate 🎓 with a strong background in developing innovative solutions to enhance user experiences and solve real-world problems. Seeking to leverage my skills and knowledge to contribute to cutting-edge AI projects and drive technological advancements 🖥️. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). 
 
 Areas of Interest: Artificial Intelligence, Data Science, Data Structures & Algorithm Programming.
