@@ -42,13 +42,13 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   <a href="" alt="pandas" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" target="_blank" rel="noreferrer">
-    <img src="" alt="numpy" width="40" height="40"/>
+  <a href="" alt="pandas" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" target="_blank" rel="noreferrer">
-    <img src="" alt="numpy" width="40" height="40"/>
+  <a href="" alt="opencv" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
