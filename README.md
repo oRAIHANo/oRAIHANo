@@ -10,12 +10,6 @@
 #### 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 #### 📫 How to reach me: **psraihan310@gmail.com**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oraihano&theme=radical" alt="oraihano" />
-  </a>
-</p>
-
 # Connect with Me 👋!
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -47,6 +41,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=oraihano&theme=radical" alt="oraihano" />
+  </a>
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oRAIHANo&show_icons=true&locale=en&layout=compact&theme=radical&card_width=1000" alt="oraihano" />
