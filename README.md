@@ -7,10 +7,6 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
 <br>Areas of Interest: Artificial Intelligence, Data Science, Data Structures & Algorithm Programming.</br>
 </h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=oRAIHANo&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=oraihano&theme=radical" alt="oraihano" />
@@ -28,7 +24,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet&style=flat-square)
 
 # Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
