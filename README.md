@@ -20,11 +20,13 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammed-raihan-p-s-aa3288213" target="blank">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="https://github-profile-trophy.vercel.app/?username=oraihano&theme=radical" alt="oraihano" />
+    
+    
   </a>
 </p>
 
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet&style=for-the-badge)
 
