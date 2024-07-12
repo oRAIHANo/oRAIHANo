@@ -27,7 +27,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
 </p>
 
 # Connect with Me 👋!
-![LinkedIn](https://linkedin.com/in/muhammed-raihan-p-s-aa3288213?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://linkedin.com/in/muhammed-raihan-p-s-aa3288213style=for-the-badge&logo=linkedin&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet&style=for-the-badge)
