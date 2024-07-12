@@ -26,6 +26,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   </a>
 </p>
 
+# Connect with Me!
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet&style=for-the-badge)
