@@ -7,22 +7,13 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
 <br>Areas of Interest: Artificial Intelligence, Data Science, Data Structures & Algorithm Programming.</br>
 </h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oraihano&theme=radical" alt="oraihano" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **AI, ML, DL, DSA, Data Science, Computer Vision, Python and C**
 - 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 - 📫 How to reach me: **psraihan310@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/muhammed-raihan-p-s-aa3288213" target="blank">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=oraihano&theme=radical" alt="oraihano" />
-    
-    
   </a>
 </p>
 
