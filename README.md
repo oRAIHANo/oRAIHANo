@@ -29,6 +29,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 <p align="center">
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
