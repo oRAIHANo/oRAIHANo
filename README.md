@@ -28,7 +28,7 @@ I am a graduate 🎓 with a strong background in developing innovative solutions
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=oRAIHANo&clor="blueviolet")
+![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet)
 
 # Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
