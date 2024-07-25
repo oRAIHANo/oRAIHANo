@@ -16,6 +16,7 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=oRAIHANo&color=blueviolet&style=for-the-badge)
 
 # Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
