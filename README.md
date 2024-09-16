@@ -14,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oRAIHANo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oRAIHANo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
 
 <!-- MasterHead -->
 ![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
