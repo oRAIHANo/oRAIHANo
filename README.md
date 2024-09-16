@@ -22,6 +22,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=oRAIHANo&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 <!-- MasterHead -->
