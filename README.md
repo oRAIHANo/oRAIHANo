@@ -10,6 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=tokyonight" alt="oRAIHANo's GitHub stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oRAIHANo&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 <!-- MasterHead -->
