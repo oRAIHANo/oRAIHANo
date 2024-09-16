@@ -1,10 +1,6 @@
 
 
-![GitHub followers](https://img.shields.io/github/followers/oRAIHANo?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/oRAIHANo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/oRAIHANo?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/oRAIHANo/CYPHER?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/oRAIHANo/CYPHER?style=for-the-badge)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=tokyonight" alt="oRAIHANo's GitHub stats"/>
@@ -35,6 +31,12 @@
 #### 🌱 I’m currently learning **AI, ML, DL, DSA, Data Science, Computer Vision, Python and C**
 #### 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 #### 📫 How to reach me: **psraihan310@gmail.com**
+
+![GitHub followers](https://img.shields.io/github/followers/oRAIHANo?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/oRAIHANo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/oRAIHANo?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/oRAIHANo/CYPHER?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/oRAIHANo/CYPHER?style=for-the-badge)
 
 # Connect with Me 👋!
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
