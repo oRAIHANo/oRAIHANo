@@ -1,25 +1,3 @@
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=tokyonight" alt="oRAIHANo's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oRAIHANo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oRAIHANo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oRAIHANo&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-
-
 <!-- MasterHead -->
 ![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
 
@@ -90,6 +68,22 @@
 
 <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true&card_width=500" alt="oraihano" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=tokyonight" alt="oRAIHANo's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oRAIHANo&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oRAIHANo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oRAIHANo&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=1a1b27&color=f8d847&line=38bdae&point=fdfdfd&area=true&hide_border=true)
