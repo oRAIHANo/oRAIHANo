@@ -6,6 +6,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/oRAIHANo/CYPHER?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/oRAIHANo/CYPHER?style=for-the-badge)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oRAIHANo&show_icons=true&theme=tokyonight" alt="oRAIHANo's GitHub stats"/>
+</p>
+
+
 
 <!-- MasterHead -->
 ![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
