@@ -1,4 +1,4 @@
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=1a1b27&color=f8d847&line=38bdae&point=fdfdfd&area=true&hide_border=true)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/oRAIHANo?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/oRAIHANo?style=for-the-badge)
@@ -22,9 +22,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=oRAIHANo&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 <!-- MasterHead -->
@@ -92,5 +89,7 @@
 <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true&card_width=500" alt="oraihano" />
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oRAIHANo&bg_color=1a1b27&color=f8d847&line=38bdae&point=fdfdfd&area=true&hide_border=true)
 
 ![MasterHead](https://camo.githubusercontent.com/23ae67ff914c9cb152c266e60ed6157fa969bda4ad5608f4edd2d739f7e683fa/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966)
