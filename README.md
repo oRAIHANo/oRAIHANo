@@ -5,7 +5,7 @@
 #### I am a graduate 🎓 with a strong background in developing innovative solutions to enhance user experiences and solve real-world problems. Seeking to leverage my skills and knowledge to contribute to cutting-edge AI projects and drive technological advancements 🖥️. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU).
 
 # Areas of Interest
-#### Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Structures & Algorithm Programming.
+#### 🤖 Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Structures & Algorithm Programming.
 #### 🌱 Currently developing expertise in AI, ML, DL, Data Science, RESTFull API, Database, Data Structures & Algorithms, Computer Vision, Python, C and SQL.
 #### 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 #### 📫 How to reach me: **mraihanps.work@gmail.com**
