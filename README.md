@@ -6,7 +6,7 @@
 
 # Areas of Interest
 #### Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Structures & Algorithm Programming.
-#### 🌱 Currently developing expertise in AI, ML, DL, Data Science, RESTFull API, Database, Data Structures & Algorithms, Computer Vision, Python, C and SQL.**
+#### 🌱 Currently developing expertise in AI, ML, DL, Data Science, RESTFull API, Database, Data Structures & Algorithms, Computer Vision, Python, C and SQL.
 #### 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
 #### 📫 How to reach me: **mraihanps.work@gmail.com**
 
