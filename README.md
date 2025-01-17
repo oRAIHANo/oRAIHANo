@@ -8,7 +8,7 @@
 #### Artificial Intelligence, Data Science, Data Structures & Algorithm Programming.
 #### 🌱 I’m currently learning **AI, ML, DL, DSA, Data Science, Computer Vision, Python and C**
 #### 👨‍💻 Check out my portfolio: [My Portfolio](https://oraihano.github.io/-/)
-#### 📫 How to reach me: **psraihan310@gmail.com**
+#### 📫 How to reach me: **mraihanps.work@gmail.com**
 
 ![GitHub followers](https://img.shields.io/github/followers/oRAIHANo?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/oRAIHANo?style=for-the-badge)
